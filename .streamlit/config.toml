@@ -9,4 +9,3 @@ font = "sans serif"
 headless = true
 
 [runner]
-enableCORS = false

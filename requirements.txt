@@ -9,3 +9,4 @@ statsmodels
 mlxtend
 papermill
 pyarrow
+prophet
